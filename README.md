@@ -1,1 +1,1 @@
-# NLP_LSTM
+# Sentiment Analysis Using Long Short Term Memory
